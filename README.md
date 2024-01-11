@@ -9,10 +9,7 @@
   - [Kurulum Adımları](#kurulum-adımları)
 - [API Kullanımı](#api-kullanımı)
   - [Çalışan Ekleme](#1-çalışan-ekleme)
-  - [Çalışanları Listeleme](#2-çalışanları-listeleme)
-- [Örnekler](#örnekler)
-  - [Örnek 1: Çalışan Ekleme](#örnek-1-çalışan-ekleme)
-  - [Örnek 2: Çalışanları Listeleme](#örnek-2-çalışanları-listeleme)
+
 ## Kurulum
 
 ### Gereksinimler
